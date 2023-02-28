@@ -1,0 +1,10 @@
+@import "vars"; // Переменные
+@import "fonts"; // Подключение шрифтов
+@import "reset"; // Сброс стилей
+
+
+// Blocks
+@import "blocks/html";
+@import "blocks/body";
+@import "blocks/registration";
+@import "blocks/form";

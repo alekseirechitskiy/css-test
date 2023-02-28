@@ -1,0 +1,39 @@
+//  === Screen widths  ===
+// --- desktop first ---
+// $screen-1280: "(max-width: 1279.98px)";
+// $screen-992: "(max-width: 991.98px)";
+// $screen-768: "(max-width: 767.98px)";
+// $screen-500: "(max-width: 499.98px)";
+// $screen-430: "(max-width: 429.98px)";
+
+// --- mobile first ---
+$screen-1440: "(min-width: 1440px)";
+$screen-1280: "(min-width: 1280px)";
+$screen-992: "(min-width: 992px)";
+$screen-768: "(min-width: 768px)";
+$screen-500: "(min-width: 500px)";
+$screen-430: "(min-width: 430px)";
+
+//  === Colors ===
+$white: #ffffff;
+$black: #000000;
+
+$bg-color: #eff6ff;
+$text-main: #2a4a5c;
+$fb-bg: #255a9b;
+$in-bg: #0076b6;
+$dodger-blue: #3698fb;
+$slate-gray: #7b8a92;
+$gull-gray: #96a5b1;
+$silver-chalice: #afafaf;
+$gallery: #eeeeee;
+
+
+// === Fonts ===
+$font-family-default: "Barlow";
+
+// === Fonts sizes ===
+$font-size-normal: 16px;
+
+// === Line heights ===
+$line-height-normal: 20px;

@@ -1,0 +1,21 @@
+.registration {
+  max-width: 1440px;
+  min-height: 1000px;
+  display: flex;
+  box-shadow: 0 0 50px $slate-gray;
+}
+
+.registration__left {
+  width: 720px;
+  padding: 50px;
+  background-image: url("@img/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.registration__right {
+  width: 720px;
+  padding: 100px 75px 0;
+  background-color: $white;
+}
